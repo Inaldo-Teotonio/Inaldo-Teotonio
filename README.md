@@ -5,11 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inaldo_teotonio/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InaldoTeo)
 
-![Inaldo-Teotonio GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldo-teotonio&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldo-teotonio&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaldo-teotonio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaldo-teotonio&layout=pie)](https://github.com/inaldo-teotonio/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
